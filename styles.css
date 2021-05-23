@@ -1,0 +1,19 @@
+h1{background-color:lightBlue; color:white; text-align:center; font-family: 'Roboto Slab', sans-serif;}
+
+h2{background-color:lightBlue; color:white; text-align:center; font-family: 'Roboto Slab';}
+
+p{background-color:lightBlue; color:white; text-align:center; font-family: 'Roboto Slab'; font-size:50px;}
+
+img{width:500px;}
+
+body {
+ background-image: url("https://previews.123rf.com/images/denisillin/denisillin1611/denisillin161100014/68166603-the-crowd-of-abstract-people-standing-nearby-cartoon-illustration-isolated-on-a-white-background-.jpg");
+ background-color: #cccccc;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
